@@ -1,0 +1,1 @@
+document.getElementById('cart').innerText='السلة فارغة';
